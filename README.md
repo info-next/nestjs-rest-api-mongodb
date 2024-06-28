@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/info-next/nestjs-rest-api-mongodb.git) NestJs User Authentication, CRUD, REST APIs, MongoDB
 
 ## Installation
 
